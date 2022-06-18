@@ -1,5 +1,3 @@
-//api link: https://globalcovidnewsapi.herokuapp.com/news
-
 const PORT = process.env.PORT || 8000;
 const express = require("express");
 const axios = require("axios");
